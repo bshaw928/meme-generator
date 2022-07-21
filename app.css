@@ -1,0 +1,25 @@
+body {
+  background-color: #a4d8ed;
+}
+
+h1,
+.intro {
+  text-align: center;
+}
+
+.meme-container {
+  width: 50%;
+  margin: auto;
+}
+
+.meme-container input {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+#submit {
+  width: 10%;
+  margin-bottom: 20px;
+  /* text-align: center; this isn't working! either does margin: auto */
+}
